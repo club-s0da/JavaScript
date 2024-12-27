@@ -1,4 +1,4 @@
-
+```javascript
 # JavaScript for Rock Paper Scissors
 
 let player = {
@@ -70,3 +70,5 @@ const displayResult = (results) => {
 
 }
 compareChoices();
+
+```
